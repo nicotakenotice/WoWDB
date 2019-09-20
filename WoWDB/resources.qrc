@@ -1,0 +1,49 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <!-- Window icon and logo -->
+        <file>img/horde_icon.ico</file>
+        <file>img/horde_logo.png</file>
+
+        <!-- Class icons -->
+        <file>img/classicon_mage.jpg</file>
+        <file>img/classicon_priest.jpg</file>
+        <file>img/classicon_rogue.jpg</file>
+        <file>img/classicon_warrior.jpg</file>
+
+        <!-- Race icons -->
+        <file>img/race_bloodelf_female.jpg</file>
+        <file>img/race_bloodelf_male.jpg</file>
+        <file>img/race_draenei_female.jpg</file>
+        <file>img/race_draenei_male.jpg</file>
+        <file>img/race_dwarf_female.jpg</file>
+        <file>img/race_dwarf_male.jpg</file>
+        <file>img/race_gnome_female.jpg</file>
+        <file>img/race_gnome_male.jpg</file>
+        <file>img/race_human_female.jpg</file>
+        <file>img/race_human_male.jpg</file>
+        <file>img/race_nightelf_female.jpg</file>
+        <file>img/race_nightelf_male.jpg</file>
+        <file>img/race_orc_female.jpg</file>
+        <file>img/race_orc_male.jpg</file>
+        <file>img/race_tauren_female.jpg</file>
+        <file>img/race_tauren_male.jpg</file>
+        <file>img/race_troll_female.jpg</file>
+        <file>img/race_troll_male.jpg</file>
+        <file>img/race_undead_female.jpg</file>
+        <file>img/race_undead_male.jpg</file>
+
+        <!-- Faction icons -->
+        <file>img/pixmap_neutral.jpg</file>
+        <file>img/pixmap_alliance.jpg</file>
+        <file>img/pixmap_horde.jpg</file>
+
+        <!-- Mob type icons -->
+        <file>img/mobtype_normal.jpg</file>
+        <file>img/mobtype_elite.jpg</file>
+        <file>img/mobtype_boss.jpg</file>
+
+        <!-- Data -->
+        <file>data/test.json</file>
+    </qresource>
+</RCC>
